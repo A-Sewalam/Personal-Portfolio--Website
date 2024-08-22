@@ -1,5 +1,5 @@
 
-<html>
+
 <h2>This Project  is an Interactive Portfolio Websit</h>
 <h3>using these technologies :</h3>
 <ul>
@@ -11,4 +11,4 @@
     </ul>
   <li >Javascript<img justify-content = center align-items=center width = 25 src= "https://th.bing.com/th/id/OIP.JroZA6yi2vhYkSOENfSsVgHaIh?rs=1&pid=ImgDetMain"></li>
 </ul>
-</html>
+
