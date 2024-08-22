@@ -12,5 +12,5 @@
   <li >Javascript<img justify-content = center align-items=center width = 25 src= "https://th.bing.com/th/id/OIP.JroZA6yi2vhYkSOENfSsVgHaIh?rs=1&pid=ImgDetMain"></li>
 </ul>
 
-<h3>You Can Check Out The Website From Here<img  width = 24src = "https://th.bing.com/th/id/OIP.L9dCUnIZwlcnaJq60t2hLQHaMb?rs=1&pid=ImgDetMain"></h3>
+<h3>You Can Check Out The Website From Here<img  width = 24 src = "https://th.bing.com/th/id/OIP.L9dCUnIZwlcnaJq60t2hLQHaMb?rs=1&pid=ImgDetMain"></h3>
 <a href = "https://lighthearted-tapioca-fd31f9.netlify.app/">Abd El-Wahhab Sewalam</a>
