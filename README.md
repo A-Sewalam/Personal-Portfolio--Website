@@ -10,6 +10,11 @@
       <li>Responsiveness </li>
     </ul>
   <li >Javascript<img justify-content = center align-items=center width = 25 src= "https://th.bing.com/th/id/OIP.JroZA6yi2vhYkSOENfSsVgHaIh?rs=1&pid=ImgDetMain"></li>
+  <ul>
+      <li>Dom</li>
+      <li>MixItUp library </li>
+      <li>Swiper library </li>
+    </ul>
 </ul>
 
 <h3><img  width = 20 src = "https://th.bing.com/th/id/OIP.L9dCUnIZwlcnaJq60t2hLQHaMb?rs=1&pid=ImgDetMain">You Can Check Out The Website From Here<img  width = 20 src = "https://th.bing.com/th/id/OIP.L9dCUnIZwlcnaJq60t2hLQHaMb?rs=1&pid=ImgDetMain"></h3>
