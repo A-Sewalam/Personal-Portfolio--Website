@@ -1,3 +1,13 @@
+ <style>
+        ul {
+            list-style-type: none; /* Remove default bullets */
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px; /* Adjust the space between items */
+        }
+    </style>
+<html>
 <h2>This Project  is an Interactive Portfolio Websit</h>
 <h3>using these technologies :</h3>
 <ul>
@@ -9,3 +19,4 @@
     </ul>
   <li margin-bottom =15px>Javascript<img justify-content = center align-items=center width = 30 src= "https://th.bing.com/th/id/OIP.JroZA6yi2vhYkSOENfSsVgHaIh?rs=1&pid=ImgDetMain"></li>
 </ul>
+</html>
