@@ -1,6 +1,6 @@
 
 
-<h2>This Project  Is An Interactive Portfolio Websit</h>
+<h2>This Project  Is An Interactive Portfolio Website</h>
 <h3> These are the technologies that i used  :</h3>
 <ul>
   <li  >HTML<img justify-content = center align-items=center width = 25 src= "https://th.bing.com/th/id/OIP.MQOaU6tX8AtO_zP7e8-i6AHaHa?rs=1&pid=ImgDetMain"></li>
