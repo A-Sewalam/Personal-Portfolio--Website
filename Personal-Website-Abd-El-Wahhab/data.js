@@ -2,17 +2,17 @@ const servicesData = [
     {
         title: "Frontend Development",
         category: "frontend",
-        description: ['fosdgsagon','gsgfdgsdgas','gsdggsadf']
+        description: ['','','']
     },
     {
         title: "Backend Development",
         category: "backend",
-        description: ['fosdgffdssagon','gsgffdsfsdgsdgas','gsdgfsdfsgsadf']
+        description: ['','','']
     },
     {
         title: "Fullstack Development",
         category: "fullstack",
-        description: ['fosdfsfsdgsagon','gsgfdsfsfsgsdgas','gsdgsfafdfgsadf']
+        description: ['','','']
     },
     
 ]
