@@ -24,6 +24,3 @@
 
 <div id="viewCounter" style="text-align: center; font-size: 24px; margin-top: 20px;">
          
-        <img src="https://hitwebcounter.com/counter/counter.php?page=000000000&style=0006&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter" border="0">
-    </div>
-
